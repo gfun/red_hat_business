@@ -1,3 +1,8 @@
-1.https://stanford.edu/~mwaskom/software/seaborn/tutorial/categorical.html
-2.https://www.kaggle.com/benhamner/d/uciml/iris/python-data-visualizations
-3.http://nbviewer.jupyter.org/github/gmonce/scikit-learn-book/blob/master/Chapter%201%20%20-%20A%20Gentle%20Introduction%20to%20Machine%20Learning.ipynb
+1.use seaborn to plot the categorical features:
+https://stanford.edu/~mwaskom/software/seaborn/tutorial/categorical.html
+
+2.the matplotlib and seaborn simple guide in iris dataset in kaggle:
+https://www.kaggle.com/benhamner/d/uciml/iris/python-data-visualizations
+
+3.scikit-learn book notebook guide:
+http://nbviewer.jupyter.org/github/gmonce/scikit-learn-book/blob/master/Chapter%201%20%20-%20A%20Gentle%20Introduction%20to%20Machine%20Learning.ipynb
